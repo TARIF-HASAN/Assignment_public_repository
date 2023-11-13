@@ -61,13 +61,9 @@ double abs;
            for (j=0;j<size;j++)
            {
                sum+=(A[i][j]*x[j]);
-               //printf("%f\n",sum);
            }
            sum=sum-(A[i][i]*x[i]);
-           //printf("%f\n",A[i][i]);
-           //printf("%f\n",sum);
            x_upd[i]=(B[i]-sum)/A[i][i];
-           //printf("%f\n",x_upd[i]);
 
        }
 
@@ -77,12 +73,9 @@ double abs;
            if (abs<0)
             abs=-abs;
 
-             //printf("%f\n",error);
-
           if (abs>error)
           {
               error=abs;
-             //printf("%f\n",error);
           }
           x[i]=x_upd[i];
        }
