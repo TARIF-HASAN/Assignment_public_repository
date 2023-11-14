@@ -1,1 +1,1 @@
-## This folder contains a python notebook file *Python_notebook.ipynb* with some codes done during the course.
+This folder contains a python notebook file ***Python_notebook.ipynb*** with some codes done during the course.
