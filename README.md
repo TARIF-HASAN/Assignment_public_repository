@@ -1,6 +1,8 @@
  # *<u>Assignment</u>*
-This repository contains files related to two matrix solvers.
-> - **Jacobi solver (Jacobi.c)**
-> - **Gauss Seidel solver (GS.c)**
+This repository contains 4 folders as given below.
+> - **Jacobi solver**
+> - **Gauss Seidel solver**
+> - **Bash_script**
+> - **Python_code**
 
-The coefficient matrix file is **Kmat.txt** and the vector file is **Fvec.txt**. Several git operations are performed on the uploaded files.
+Several git operations are performed on the uploaded files.

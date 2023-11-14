@@ -1,0 +1,1 @@
+## This folder contains bash file for a simple calculator *simplecal1.sh* done during the course.
